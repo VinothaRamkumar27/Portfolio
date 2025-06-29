@@ -72,7 +72,3 @@ This portfolio is built using:
 - **Deployment**: GitHub Pages / Netlify / Vercel *(mention your platform)*
 - **Design Tools**: Figma / Canva *(optional)*
 
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
