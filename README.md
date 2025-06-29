@@ -72,10 +72,6 @@ This portfolio is built using:
 - **Deployment**: GitHub Pages / Netlify / Vercel *(mention your platform)*
 - **Design Tools**: Figma / Canva *(optional)*
 
-## 🌐 Live Website
-
-Check out the portfolio here:  
-[🔗 https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 ## 📄 License
 
