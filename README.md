@@ -72,3 +72,23 @@ This portfolio is built using:
 - **Deployment**: GitHub Pages
 - **Design Tools**: Figma / Canva 
 
+## DESIGN:
+
+## 1. HOME PAGE:
+![Alt Text](https://github.com/VinothaRamkumar27/Portfolio/blob/ea8acd8d6d64a9b4acc0b0d5b6d060a17ce05834/HOME.png)
+
+## 2. ABOUT ME:
+![Alt Text](https://github.com/VinothaRamkumar27/Portfolio/blob/ea8acd8d6d64a9b4acc0b0d5b6d060a17ce05834/ABOUT%20ME.png)
+
+## 3. EXPERIENCE:
+![Alt Text](https://github.com/VinothaRamkumar27/Portfolio/blob/ea8acd8d6d64a9b4acc0b0d5b6d060a17ce05834/PROJECTS.png)
+
+## 4. PROJECTS:
+![Alt Text](https://github.com/VinothaRamkumar27/Portfolio/blob/ea8acd8d6d64a9b4acc0b0d5b6d060a17ce05834/PUBLICATIONS.png)
+
+## 5. ACHIEVEMENTS:
+![Alt Text](https://github.com/VinothaRamkumar27/Portfolio/blob/ea8acd8d6d64a9b4acc0b0d5b6d060a17ce05834/ACHIEVEMENTS.png)
+
+## 6. GET IN TOUCH:
+![Alt Text](https://github.com/VinothaRamkumar27/Portfolio/blob/ea8acd8d6d64a9b4acc0b0d5b6d060a17ce05834/GET%20IN%20TOUCH.png)
+
