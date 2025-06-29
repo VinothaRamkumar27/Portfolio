@@ -68,7 +68,7 @@ Get in touch with me through the contact section, which includes:
 
 This portfolio is built using:
 
-- **Frontend**: HTML | CSS | JavaScript *(or React/Vue/Tailwind/etc. as applicable)*
-- **Deployment**: GitHub Pages / Netlify / Vercel *(mention your platform)*
-- **Design Tools**: Figma / Canva *(optional)*
+- **Frontend**: HTML | CSS | JavaScript 
+- **Deployment**: GitHub Pages
+- **Design Tools**: Figma / Canva 
 
